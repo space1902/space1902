@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @ space1902
+- 👋 Hi, I'm @ space1902 and I'm a fullstack software developer in java, angular and reack.
 - 👀 I am interested in learning artificial intelligence and cryptography
 - 🌱 I am currently learning python
 - 💞️ I'm looking to collaborate on ...
